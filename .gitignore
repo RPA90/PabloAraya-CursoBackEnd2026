@@ -1,5 +1,5 @@
 #Carpeta .vscode
-./.vscode
+.\.vscode\
 
 # Compiled class file
 *.class
